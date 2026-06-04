@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div> href="[https](https://github.com/Denadai69)" 
+<div> href="https://github.com/Denadai69" 
 </div> 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
